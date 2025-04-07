@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VbAUgMN8PgsNmEEyBs1t`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x`) 
 
    
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join Σ.И.ß-XM𝐃-𝚩𝚯T Chatroom* https://whatsapp.com/channel/0029VbAUgMN8PgsNmEEyBs1t
+                 await repondre(`*Tap Here To Join Σ.И.ß-XM𝐃-𝚩𝚯T Chatroom* https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*MR-B.M.B- md is running on its latest vision_*`) 
+                 await repondre(`*SCORPION-V8 is running on its latest vision_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'b.m.b',
+zokou({ nomCom: 'scorp',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -212,19 +212,19 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*_┏━━━━━━━━━━━━━━
-┃Σ.И.ß-XM𝐃-𝚩𝚯T 🎉🎉🎉 
+┃SCORPION-V8🎉🎉🎉 
 | NEVER 
 ┃DIE🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Σ.И.ß-XM𝐃-𝚩𝚯T 𖥘
+❶ || Creator = 𖥘 Toyotatech01 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VbAUgMN8PgsNmEEyBs1t
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 +255687104419👈
+Wanna talk to me?👉 +255799056874👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2025-2099 Σ.И.ß-XM𝐃-𝚩𝚯T_*`) 
+©*2025-2099 SCORPION-V8_*`) 
 
    
 
