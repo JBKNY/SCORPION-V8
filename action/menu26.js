@@ -67,7 +67,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 
 ╔════➻⊷➻════──❂
-║ ⦿━═━❖ *MR-𝙴𝙻𝙻𝚈-𝚇𝙼𝙳* ❖━═━⦿
+║ ⦿━═━❖ *SCORPION-V8🦂* ❖━═━⦿
 ║ ┃✯𝕄𝕠𝕕𝕖: ${mode}
 ║ ┃✯𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ║ ┃✯𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -86,7 +86,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
 ╭──━━✣━━────❍ 
 │╔════➳════╗
-│║❖ _*MR-𝙴𝙻𝙻𝚈-𝚇𝙼𝙳*_
+│║❖ _*SCORPION-V8🦂*_
 │╚════➳════╝
 ╰──━━✣━━────❍\n
 
@@ -121,7 +121,7 @@ let menuMsg = `
 
 
  ❖═══════════════❖
- ║✣ _*𝙴𝙻𝙻𝚈-𝚇𝙼𝙳 𝟚𝟘𝟚5*_
+ ║✣ _*SCORPION-V8🦂*_
  ║✣ _*𝕖𝕟𝕛𝕠𝕪 𝕝𝕚𝕗𝕖*_ 
  ❖═══════════════❖
  ❍━━━━═══════━━━━❍ 
@@ -143,7 +143,7 @@ let menuMsg = `
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *B.M.B-BOT*, déveloper Cod3uchiha" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *SCORPION-V8*, déveloper Cod3uchiha" , gifPlayback : true }, { quoted: ms });
 
     }
 
@@ -163,7 +163,7 @@ else if (lien.match(/\.(jpeg|png)$/i)) {
 
     try {
 
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *B.M.B-bot*, déveloper cod3uchiha" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *SCORPION-V8*, déveloper cod3uchiha" }, { quoted: ms });
 
     }
 
