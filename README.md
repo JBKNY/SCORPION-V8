@@ -1,4 +1,4 @@
-# NORMAL-BOT-MD
+# SCORPION-V8🦂
 <a href="https://ibb.co/zfd01dv"><img src="https://files.catbox.moe/pqidrc.jpeg" alt="1728892250720" border="0"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -14,7 +14,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+POPKID-MD+MADE+IN+KENYA+🎖️🥇" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+SCOPION-V8-BOT+MADE+IN+CHINA+🎖️🥇" alt="Typing SVG" /></a>
 
 
 
