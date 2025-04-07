@@ -29,7 +29,7 @@ zokou({ nomCom: 'uptime',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*_uptime of 
-                 Σ.И.ß-XM𝐃-𝚩𝚯T is: ${runtime(process.uptime())}_*`) 
+                 SCORPION-V8 is: ${runtime(process.uptime())}_*`) 
 
    
 
