@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🫶" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "enb xmd", numero: "255687104419" },
-      { nom: "enb xmd", numero: "254784934065" },
+      { nom: "pkdriller", numero: "254785392165" },
+      { nom: "pkdriller", numero: "254799056874" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 welcome to enb xnd here is the dev :\n\n";
+    let message = "👋 welcome to SCORPION-V8 here is the dev :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -103,12 +103,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "enb xmd", numero: "254784934065" },
-      { nom: "enb xmd", numero: "255687104419" },
+      { nom: "pkdriller", numero: "254785392165" },
+      { nom: "pkdriller", numero: "254799056874" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to enb xmd* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to SCORPION-V8* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
