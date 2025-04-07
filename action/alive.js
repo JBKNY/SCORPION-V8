@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Hello👋 , *Σ.И.ß-XM𝐃-𝚩𝚯T* is alive just like you my guy😜. ')
+repondre(' Hello👋 , *SCORPION-V8* is alive just like you my guy😜. ')
 
 }
     });
