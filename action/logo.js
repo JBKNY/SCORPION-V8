@@ -146,12 +146,12 @@ logoCommands.forEach(({ nomCom, categorie, reaction, makerUrl }) => {
       await zk.sendMessage(dest, { image: { url: img.image }, caption: `
 ⁠⁠⁠⁠
 ╭──────────━⊷
-║ ENB-XMD-BOT
+║ SCORPION-V8
 ╰──────────━⊷
 ╭──────────━⊷
   ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ғᴏʀ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs
  
-  ᴛᴀᴘ ᴏɴ ᴛʜᴇ ʟɪɴᴋ: https://whatsapp.com/channel/0029VbAUgMN8PgsNmEEyBs1t
+  ᴛᴀᴘ ᴏɴ ᴛʜᴇ ʟɪɴᴋ: https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 ╰──────────━⊷
 
 > ENB-XMD-BOT` }, { quoted: ms });
