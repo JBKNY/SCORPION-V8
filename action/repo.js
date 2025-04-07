@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *ENB-XMD-BOT IMPORTANT INFO* 
+      *SCORPION-V8 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 >https://github.com/Toyotatech01/SCORPION-V8
