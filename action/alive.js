@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *Σ.И.ß-XM𝐃-𝚩𝚯T*`
+ *SCORPION-V8*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
