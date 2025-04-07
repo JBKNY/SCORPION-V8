@@ -13,13 +13,13 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
       fetch('https://animechan.xyz/api/random')
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`*Σ.И.ß-XM𝐃-𝚩𝚯T Quotes*
+          repondre(`*SCORPION-V8 Quotes*
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *Mr-B.M.B*`);
+Powered by *pkdriller*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -31,13 +31,13 @@ Powered by *Mr-B.M.B*`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`Σ.И.ß-XM𝐃-𝚩𝚯T
+          repondre(`SCORPION-V8
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *Σ.И.ß-XM𝐃-𝚩𝚯T*`);
+Powered by *SCORPION-V8*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
