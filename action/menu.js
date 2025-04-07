@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭──── 🌏 Σ.И.ß-XM𝐃-𝚩𝚯T🌏 ─────✣
+╭──── 🦂SCORPION-V8🦂 ─────✣
 │  ╭─────────────✣
 │  │▸ *my owner* : ${s.OWNER_NAME}
    │▸ *commander* : ${nomAuteurMessage} 
@@ -45,13 +45,13 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *plugin* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *running on* : ${os.platform()}
-    ▸ *theme* : *Σ.И.ß-XM𝐃-𝚩𝚯T*
+    ▸ *theme* : *SCORPION-V8*
 
-> Σ.И.ß-XM𝐃-𝚩𝚯T 🎉 2025\n${readmore}`;
+> SCORPION-V8 🎉 2025\n${readmore}`;
     
 let menuMsg = `
 
- * Σ.И.ß-XM𝐃-𝚩𝚯T🎉 COMMADS *${readmore}
+ * SCORPION-V8🎉 COMMADS *${readmore}
 `;
 
     for (const cat in coms) {
@@ -64,14 +64,14 @@ let menuMsg = `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> powered by Σ.И.ß-XM𝐃-𝚩𝚯T
+    menuMsg += `> powered by SCORPION-V8
 `;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Σ.И.ß-XM𝐃-𝚩𝚯T*, déveloper Σ.И.ß-XM𝐃-𝚩𝚯T" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *SCORPION-V8*, déveloper Toyotatech01" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -81,7 +81,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Σ.И.ß-XM𝐃-𝚩𝚯T*, déveloper Σ.И.ß-XM𝐃-𝚩𝚯T" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *SCORPION-V8*, déveloper Toyotatech01" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
