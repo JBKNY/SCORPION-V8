@@ -34,29 +34,29 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *Σ.И.ß-XM𝐃-𝚩𝚯T BOT IMPORTANT INFO* 
+   *SCORPION-V8 BOT IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-https://github.com/enb-tech/ENB-XMD-BOT-
+https://github.com/Toyotatech01/SCORPION-V8
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VbAUgMN8PgsNmEEyBs1t
+> https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 
 *WHATSAPP GROUP*
->
-https://chat.whatsapp.com/JAR9vAVQ4igF8jXPCMzhkX
+>https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
+
 
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/enb-tech/ENB-XMD-BOT-
+> https://github.com/Toyotatech01/SCORPION-V8
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Σ.И.ß-XM𝐃-𝚩𝚯T*
+│❒⁠⁠⁠⁠ *DEV* : *SCORPION-V8*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     POWERED BY Σ.И.ß-XM𝐃-𝚩𝚯T 
+     POWERED BY SCORPION-V8 
 
 ❒────────────────────❒`;
 
