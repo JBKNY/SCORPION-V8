@@ -1,8 +1,8 @@
 {
-  "name":"Σ.И.ß-XM𝐃-𝚩𝚯T",
-  "description":"Best whatsapp bot developed by enb-xmd",
+  "name":"SCORPION-V8🦂",
+  "description":"Best whatsapp bot developed by Toyotatech01",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/qk7x8w.jpg",
+  "logo":"https://files.catbox.moe/jdp9ur.jpeg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -72,14 +72,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Σ.И.ß-XM𝐃-𝚩𝚯T",
+      "value":"SCORPION-V8🦂",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/qk7x8w.jpg",
+      "value":"https://files.catbox.moe/pqidrc.jpeg",
       "required":false
        
      },
@@ -111,14 +111,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Σ.И.ß-XM𝐃-𝚩𝚯T"
+    "value": "Toyotatech01"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": ""
+    "value": "254799056874"
   },
     "WARN_COUNT":
   {
